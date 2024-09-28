@@ -14,7 +14,7 @@ const config: QuartzConfig = {
 
     analytics: {
       provider: "umami",
-      websiteId: "698b29ac-0a11-4ec4-96c4-830501ababd5",
+      websiteId: "55ed9780-134b-4b91-b50c-f156e04be26f",
     },
     locale: "en-US",
     baseUrl: "campaignvault.coolify.fronix.io",
